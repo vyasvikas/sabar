@@ -20,6 +20,7 @@
 <select name="city">
   <option value ="ahmedabad">ahmedabad</option>
   <option value ="bombay">bombay</option>
+   <option value ="jaipur">jaipur</option>
   
 </select>
 </div>
